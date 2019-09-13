@@ -1,6 +1,13 @@
 body{
 	background-color:lightblue;
+	width: 750px;
+	border-style:solid;
 }
+
+/*wszystkie elementy  body mają obramowanie 
+body * {
+	border-style:solid;
+} */
 
 h1 {
 	color: white;
