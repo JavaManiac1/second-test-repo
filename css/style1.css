@@ -1,6 +1,9 @@
 body{
 	background-color:lightblue;
-	width: 750px;
+	/*color:#665544; */
+	color:red;
+	width: 80%;
+	 margin: auto;
 	border-style:solid;
 }
 
