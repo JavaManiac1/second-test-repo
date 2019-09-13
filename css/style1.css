@@ -1,10 +1,18 @@
+html{
+	height: 100%;
+}
+
 body{
 	background-color:lightblue;
 	/*color:#665544; */
-	color:red;
+	
 	width: 80%;
 	 margin: auto;
 	border-style:solid;
+	height: 80%;
+	min-height: 80%;
+
+
 }
 
 /*wszystkie elementy  body mają obramowanie 
@@ -20,4 +28,22 @@ h1 {
 p{
 	font-family:verdana;
 	font-size: 20px;
+}
+.container *{border-style:solid;}
+.container  {
+	
+	
+	border-style: solid;
+	margin:auto;
+}
+.navi{
+	width:30%;
+	float:left;
+    margin:10px;
+}
+.rightcontent{
+	width:60%;
+	float:left;
+	margin:10px;
+
 }
