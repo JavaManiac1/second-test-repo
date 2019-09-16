@@ -38,11 +38,13 @@ p{
 }
 .navi{
 	width:30%;
+	min-height:400px;
 	float:left;
     margin:10px;
 }
 .rightcontent{
-	width:60%;
+	min-height:400px;
+	width:65%;
 	float:left;
 	margin:10px;
 
